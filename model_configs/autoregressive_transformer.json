@@ -1,0 +1,47 @@
+{
+    "default_params": {
+        "model_name": "autoregressive",
+        "state_dim": 1644,
+        "act_dim": 7,
+        "hidden_size": 256,
+        "max_length": null,
+        "num_classes": 5,
+        "encoder": "resnet",
+        "enable_past_actions" : false,
+        "nhead": 4,
+        "num_decoder_layers": 8,
+        "dim_feedforward": 256,
+        "normalize": true,
+        "num_views": 0
+        },
+    "multiview_params": {
+        "model_name": "autoregressive",
+        "state_dim": 1644,
+        "act_dim": 7,
+        "hidden_size": 256,
+        "max_length": null,
+        "num_classes": 5,
+        "encoder": "resnet",
+        "enable_past_actions" : false,
+        "nhead": 4,
+        "num_decoder_layers": 8,
+        "dim_feedforward": 256,
+        "normalize": true,
+        "num_views": 2
+        },
+    "multiview_params_left_right_top": {
+        "model_name": "autoregressive",
+        "state_dim": 1644,
+        "act_dim": 7,
+        "hidden_size": 256,
+        "max_length": null,
+        "num_classes": 5,
+        "encoder": "resnet",
+        "enable_past_actions" : false,
+        "nhead": 4,
+        "num_decoder_layers": 8,
+        "dim_feedforward": 256,
+        "normalize": true,
+        "num_views": 3
+        }
+}

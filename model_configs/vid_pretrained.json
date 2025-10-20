@@ -1,0 +1,27 @@
+{
+    "base_model": {
+        "model_name": "video_pretrained",
+        "state_dim": 1644,
+        "act_dim": 7,
+        "hidden_size": 256,
+        "max_length": null,
+        "num_classes": 5,
+        "encoder": "resnet",
+        "window_size": 3,
+        "enable_image_conditioning": true,
+        "num_views": 0
+    },
+    "base_model_with_network_layers": {
+        "model_name": "video_pretrained",
+        "state_dim": 1644,
+        "act_dim": 7,
+        "hidden_size": 256,
+        "max_length": null,
+        "num_classes": 5,
+        "encoder": "resnet",
+        "window_size": 3,
+        "enable_image_conditioning": true,
+        "num_views": 0,
+        "network_layers": [512, 256, 128, 64]
+    }
+}
