@@ -1,6 +1,6 @@
 <div align="center">
 
-## VideoCAD: A Large-Scale Video Dataset for Learning UI Interactions and 3D Reasoning from CAD Software
+## VideoCAD: A Dataset and Model for Learning Long‑Horizon 3D CAD UI Interactions from Video
 
 > Brandon Man<sup>1\*</sup>, Ghadi Nehme<sup>1\*</sup>, Md Ferdous Alam<sup>1</sup>, Faez Ahmed<sup>1</sup> <br>
 > <sup>1</sup>Massachusetts Institute of Technology  
@@ -213,6 +213,8 @@ The evaluation script will generate:
 - **Performance metrics**: Command accuracy, parameter accuracy, sequence accuracy
 - **Analysis plots**: Confusion matrices, error analysis, tolerance curves
 - **Sample outputs**: Predicted action sequences for test samples
+
+**Pre-trained Checkpoint**: Download our trained VideoCADFormer model from [here](https://drive.google.com/file/d/1dWa8gZ56tXCLXzhuTTKjhq2bteUDf1ZH/view?usp=sharing).
 
 ---
 
