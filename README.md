@@ -223,11 +223,10 @@ The evaluation script will generate:
 If you find our work helpful, please consider citing:
 
 ```bibtex
-@article{man2025videocad,
-  title={VideoCAD: A Large-Scale Video Dataset for Learning UI Interactions and 3D Reasoning from CAD Software},
+@inproceedings{manvideocad,
+  title={VideoCAD: A Dataset and Model for Learning Long-Horizon 3D CAD UI Interactions from Video},
   author={Man, Brandon and Nehme, Ghadi and Alam, Md Ferdous and Ahmed, Faez},
-  journal={arXiv preprint arXiv:PLACEHOLDER},
-  year={2025}
+  booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems Datasets and Benchmarks Track}
 }
 ```
 
