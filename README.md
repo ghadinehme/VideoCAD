@@ -110,6 +110,8 @@ data/
 └── data_resized/         # Processed data (created by preprocessing)
 ```
 
+You can find the images here: [cad_imgs.zip](https://drive.google.com/file/d/17-UkgyTRoWEQEHUsX4x_-hRnQci4lqhy/view?usp=sharing)
+
 ### 2. Run Data Preprocessing
 
 Process the raw data into the format expected by the training scripts:
