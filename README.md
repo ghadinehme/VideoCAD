@@ -225,10 +225,12 @@ The evaluation script will generate:
 If you find our work helpful, please consider citing:
 
 ```bibtex
-@inproceedings{manvideocad,
+@article{man2026videocad,
   title={VideoCAD: A Dataset and Model for Learning Long-Horizon 3D CAD UI Interactions from Video},
-  author={Man, Brandon and Nehme, Ghadi and Alam, Md Ferdous and Ahmed, Faez},
-  booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems Datasets and Benchmarks Track}
+  author={Man, King Yiu Brandon and Nehme, Ghadi and Alam, Md Ferdous and Ahmed, Faez},
+  journal={Advances in Neural Information Processing Systems},
+  volume={38},
+  year={2026}
 }
 ```
 
